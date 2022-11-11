@@ -5,7 +5,7 @@
  * @param a The first number
  * @param b the number of bits in the output
  *
- * @return a + b - a*b
+ * @return a + b
  */
 int add(int a, int b)
 {
