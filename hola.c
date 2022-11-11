@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * It adds two numbers and subtracts the product of the two numbers
+ * It adds two integers and returns the result
  *
- * @param a The first number
- * @param b the number of bits in the output
+ * @param a The first number to add
+ * @param b The second number to add
  *
- * @return a + b
+ * @return The sum of a and b.
  */
 int add(int a, int b)
 {
